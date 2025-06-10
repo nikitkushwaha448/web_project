@@ -1,0 +1,23 @@
+{
+  "name": "web_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikitkushwaha448/web_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikitkushwaha448/web_project/issues"
+  },
+  "homepage": "https://github.com/nikitkushwaha448/web_project#readme",
+  "dependencies": {
+    "parcel": "^2.15.2",
+    "react-dom": "^19.1.0"
+  }
+}
